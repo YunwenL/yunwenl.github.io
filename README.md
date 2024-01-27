@@ -37,7 +37,7 @@ Reviews
 - Provincial Natural Science Foundation of Hunan Province, principal investigator, Cryptanalysis techniques for lightweight block ciphers
 
 ## Links
-[google_scholar](https://scholar.google.com/citations?hl=en&user=fbnd6LMAAAAJ)
-[linkedin](https://www.linkedin.com/in/yunwen-liu-a631bb122/)
-[github](https://github.com/YunwenL)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=fbnd6LMAAAAJ)
+[Linkedin](https://www.linkedin.com/in/yunwen-liu-a631bb122/)
+[Github](https://github.com/YunwenL)
 
