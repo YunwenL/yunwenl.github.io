@@ -1,5 +1,7 @@
 ```markdown
-Yunwen Liu
+About me
+I am a researcher in cryptography. I work as a senior researcher in a blockchain startup Cryptape. I was an associate research fellow and a lecturer in National university of defense technology, China. I received my Ph.D in cryptography from COSIC KU Leuven, Belgium in 2018.
+email: univerlyw(at)hotmail(dot)com
 ```
 ## Research Interests
 
@@ -33,4 +35,8 @@ Reviews
 - National Natural Science Foundation of China, principal investigator, On the design and automated cryptanalysis of ARX block ciphers
 - Provincial Natural Science Foundation of Hunan Province, principal investigator, Cryptanalysis techniques for lightweight block ciphers
 
+## Links
+[google_scholar](https://scholar.google.com/citations?hl=en&user=fbnd6LMAAAAJ)
+[linkedin](https://www.linkedin.com/in/yunwen-liu-a631bb122/)
+[github](https://github.com/YunwenL)
 
