@@ -1,8 +1,9 @@
 ```markdown
-About me
-I am a researcher in cryptography. I work as a senior researcher in a blockchain startup Cryptape. I was an associate research fellow and a lecturer in National university of defense technology, China. I received my Ph.D in cryptography from COSIC KU Leuven, Belgium in 2018.
 email: univerlyw(at)hotmail(dot)com
 ```
+## About 
+I am a researcher in cryptography. I work as a senior researcher in a blockchain startup Cryptape. I was an associate research fellow and a lecturer in mathematics in National university of defense technology, China, from 2019 to 2021. I received my Ph.D in cryptography under the supervising of Prof. dr. ir. Vincent Rijmen, from COSIC KU Leuven, Belgium in 2018. My Ph.D thesis is [Techniques for Block Cipher Cryptanalysis](https://www.esat.kuleuven.be/cosic/publications/thesis-306.pdf). 
+
 ## Research Interests
 
 ### Symmetric-key cryptography
