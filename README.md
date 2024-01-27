@@ -2,7 +2,7 @@
 Contact me: univerlyw(at)hotmail(dot)com
 ```
 
-I am a researcher in cryptography. I work as a senior researcher in a blockchain startup Cryptape. I was an associate research fellow and a lecturer in mathematics from 2019 to 2021. I received my Ph.D in cryptography under the supervision of Prof. dr. ir. Vincent Rijmen, from COSIC KU Leuven, Belgium in 2018. My Ph.D thesis is [Techniques for Block Cipher Cryptanalysis](https://cosicdatabase.esat.kuleuven.be/backend/publications/files/these/306). 
+I am a researcher in cryptography. I work as a senior researcher in a blockchain startup Cryptape. I was an associate research fellow and a lecturer in mathematics from 2019 to 2021. I received my Ph.D in cryptography under the supervision of [Prof. dr. ir. Vincent Rijmen](https://en.wikipedia.org/wiki/Vincent_Rijmen), from COSIC KU Leuven, Belgium in 2018. My Ph.D thesis is [Techniques for Block Cipher Cryptanalysis](https://www.esat.kuleuven.be/cosic/publications/thesis-306.pdf). 
 
 ## Research Interests
 
