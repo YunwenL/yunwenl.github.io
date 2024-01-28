@@ -19,14 +19,15 @@ I worked on the protocol design of a payment channel network in a real-world blo
 
 
 ## Community service
-Program committee
+Program committees
 - FSE 2024/2023
 - EUROCRYPT 2023
 - SAC 2023/2022/2020
 - Cfail 2020
   
-Editorial board
-- IACR Communications in Cryptology
+Editorial boards
+- IACR Communications in Cryptology 2024
+- IACR Transactions on Symmetric Cryptology 2023/2022
 
 Reviews
 - Conferences: NDSS 2023, Eurocrypt 2016, Asiacrypt 2019/2021, FSE 2016/2018/2020/2022, CT-RSA 2019, SAC 2021
