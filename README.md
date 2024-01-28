@@ -35,8 +35,8 @@ Reviews
 
 
 ## Fundings
-- National Natural Science Foundation of China, principal investigator, On the design and automated cryptanalysis of ARX block ciphers
-- Provincial Natural Science Foundation of Hunan Province, principal investigator, Cryptanalysis techniques for lightweight block ciphers
+- National Natural Science Foundation of China, Principal investigator, On the design and automated cryptanalysis of ARX block ciphers
+- Provincial Natural Science Foundation of Hunan Province, Principal investigator, Cryptanalysis techniques for lightweight block ciphers
 
 ## Links
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fbnd6LMAAAAJ)
