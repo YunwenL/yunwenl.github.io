@@ -7,13 +7,13 @@ I am a researcher in cryptography. I work as a senior researcher in a blockchain
 ## Research Interests
 
 ### Symmetric-key cryptography
-My main focus is on the security evaluation of lightweight ciphers with rotational cryptanalysis, linear cryptanalysis, etc, as well as a better understanding of the distinguishers in a mathematical view
+My main focus is on the security evaluation of lightweight ciphers with rotational cryptanalysis, linear cryptanalysis, etc, as well as using mathematics to improve our understanding of distinguishers.
 - Mathematical theory of cryptanalysis
 - New methods to build distinguishers
 - Automated cryptanalysis with constraint programming (SAT/SMT/MILP)
 
 ### Blockchain payment channel networks
-I worked on the protocol design of a payment channel network in a real-world blockchain ecosystem
+I worked on the protocol design of a payment channel network in a real-world blockchain ecosystem.
 - Payment channels with improved features, e.g., constant collateral, value privacy, rebalancing
 - Applications of cryptographic primitives in blockchain technology
 
