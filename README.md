@@ -13,7 +13,7 @@ My main focus is on the security evaluation of lightweight ciphers with rotation
 - Automated cryptanalysis with constraint programming (SAT/SMT/MILP)
 
 ### Blockchain payment channel networks
-I work on the protocol design of a payment channel network in a real-world blockchain ecosystem.
+I work on the protocol design of payment channel networks in blockchain ecosystems.
 - Payment channels with improved features, e.g., constant collateral, value privacy, rebalancing
 - Applications of cryptographic primitives in blockchain technology
 
